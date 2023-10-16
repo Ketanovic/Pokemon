@@ -31,7 +31,7 @@ class Pokemon:
         # Allow two pokemon to fight each other
 
         # Print fight information
-        print("-----POKEMONE BATTLE-----")
+        print("-----POKEMON BATTLE-----")
         print(f"\n{self.name}")
         print("TYPE/", self.types)
         print("ATTACK/", self.attack)
